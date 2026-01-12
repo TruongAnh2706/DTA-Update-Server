@@ -1,2 +1,2 @@
-15.0.0
-https://github.com/TruongAnh2706/DTA-Update-Server/releases/download/v15/DTA_AutoDown_V15.zip
+20.0.0
+https://github.com/TruongAnh2706/DTA-Update-Server/releases/download/v20/DTA_AutoDown_V20.zip
