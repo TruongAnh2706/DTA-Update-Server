@@ -1,2 +1,8 @@
 25.0.0
 https://github.com/TruongAnh2706/DTA-Update-Server/releases/download/v25/DTA_AutoDown_V25.zip
+🚀 CẬP NHẬT LỚN V25
+------------------
+1. Fix lỗi treo app khi tải video > 5 tiếng.
+2. Sửa lỗi không nhận diện link Twitch.
+3. Giao diện Update mới: Đẹp hơn, hiện tiến độ rõ ràng.
+4. Tự động hiển thị version trên tiêu đề cửa sổ.
