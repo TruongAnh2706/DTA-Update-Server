@@ -1,2 +1,19 @@
-30.0.0
-https://github.com/TruongAnh2706/DTA-Update-Server/releases/download/v30/DTA_AutoDown_V30.zip
+35.0.0
+https://github.com/TruongAnh2706/DTA-Update-Server/releases/download/v35/DTA_AutoDown_V35.zip
+
+## 🚀 DTA AutoDown V35.0.0 - Changelog
+
+### ✨ Tính năng mới
+- 🍪 **Auto Browser Cookies**: Tự động lấy cookies từ Chrome/Firefox/Edge/Brave/Opera
+- 🔤 **Subtitle Case Options**: Chọn kiểu chữ phụ đề (Bình thường/IN HOA/Title Case/in thường)
+- ℹ️ **Popup Thông tin**: Nút thông tin DTA Studio với QR donate
+- 📁 **Quick Folder**: Đổi folder lưu ngay từ sidebar
+
+### ⚡ Cải thiện hiệu năng
+- Aria2c tối ưu: 32 luồng + disk cache 16MB cho Twitch
+- Settings popup layout 2 cột compact
+- Sidebar tối ưu spacing
+
+### 🐛 Sửa lỗi
+- Fix icon titlebar popup
+- Fix spacing sidebar hiện đủ nút Reset
