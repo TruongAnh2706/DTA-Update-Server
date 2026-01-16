@@ -1,2 +1,2 @@
-40.0.0
-https://github.com/TruongAnh2706/DTA-Update-Server/releases/download/v40/DTA_AutoDown_V40.zip
+45.0.0
+https://github.com/TruongAnh2706/DTA-Update-Server/releases/download/v45/DTA_AutoDown_V45.zip
