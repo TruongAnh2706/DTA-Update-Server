@@ -1,2 +1,13 @@
-50.0.0
-https://github.com/TruongAnh2706/DTA-Update-Server/releases/download/v50/DTA_AutoDown_V50.zip
+55.1.0
+https://github.com/TruongAnh2706/DTA-Update-Server/releases/download/v55.1/DTA_AutoDown_V55.1.zip
+
+## 🚀 DTA AutoDown V55.1.0 - Twitch Fix & Progress
+
+### 🔧 Sửa lỗi
+- Fix lỗi "Unable to open fragment 0" khi tải Twitch
+- Loại bỏ ký tự đặc biệt (!, +, emoji) trong tên file
+- Giảm aria2c từ 32 xuống 16 connections (max cho phép)
+
+### ✨ Tính năng mới
+- Hiển thị tiến độ download realtime (MB/GB đã tải)
+- Color palette Premium Dark Mode
